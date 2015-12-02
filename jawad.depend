@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1448534208 source:t:\jawad\main.c
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
+1448535113 source:c:\users\vferrapie\jawad\main.c
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
+1448535114 source:d:\github\odor\main.c
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
